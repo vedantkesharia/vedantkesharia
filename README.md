@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Vedant Kesharia</b></h1>
-<h2 align="center"><b>A passionate Full Stack developer from India</b></h2>
+<h2 align="center"><b>A passionate Full Stack Web Developer 🧑‍💻</b></h2>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 - 👨‍💻 All of my projects are available at https://vedantkeshariaportfolio.netlify.app/
 
