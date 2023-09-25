@@ -1,9 +1,8 @@
 <h1 align="center"><b>Hi 👋, I'm Vedant Kesharia</b></h1>
 <h2 align="center"><b>A passionate Full Stack Web Developer 🧑‍💻</b></h2>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-</br>
 
-- 👨‍💻 All of my projects are available at https://vedantkeshariaportfolio.netlify.app/
+- 👨‍💻 🧑‍💻 All of my projects are available at https://vedantkeshariaportfolio.netlify.app/
 
 - 📫 How to reach me **keshariavedant@gmail.com**
 
