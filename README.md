@@ -10,7 +10,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing](https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing)
 </br>
-
 </br>
 </br>
 <h3 align="left">Languages and Tools:</h3>
