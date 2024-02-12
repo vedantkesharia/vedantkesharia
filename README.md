@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **keshariavedant@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing](https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing](https://drive.google.com/file/d/16JO7SgiUEpnI5208Y4dd8AQHyEZ1tJhy/view)
 </br>
 </br>
 </br>
