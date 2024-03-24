@@ -4,12 +4,12 @@
 <h1 align="center"><b>Hi 👋, I'm Vedant Kesharia<br>A passionate Full Stack Web Developer 🧑‍💻 with knowledge in Machine Learning (ML)</b></h1>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 👨‍💻 🧑‍💻 All of my projects are available at https://vedantkeshariaportfolio.netlify.app/
+- 👨‍💻 🧑‍💻 All of my projects are available at [My Portfolio website](https://vedantkeshariaportfolio.netlify.app/)
 
 
-- 📫 How to reach me *keshariavedant@gmail.com*
+- 📫 How to reach me: <a href="mailto:keshariavedant@gmail.com">keshariavedant@gmail.com</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QPstg4LWxjajWSjbC8-2T8FOj-MZ3KxH/view?usp=sharing](https://drive.google.com/file/d/1yj_5ftgOIVWCv5Zntee7RkBL3A4_naj5/view?usp=drivesdk)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1yj_5ftgOIVWCv5Zntee7RkBL3A4_naj5/view?usp=drivesdk)
 
 
 ## 🌐 Socials:
