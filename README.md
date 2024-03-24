@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: [**keshariavedant@gmail.com**](mailto:keshariavedant@gmail.com)
 
-- 📄 Know about my experiences [**Drive Link**](https://drive.google.com/file/d/1yj_5ftgOIVWCv5Zntee7RkBL3A4_naj5/view?usp=drivesdk)
+- 📄 Know about my experiences [**Drive Link**](https://drive.google.com/file/d/1rtlL5VFNJa-0eKh27KFOr_91CQiAA4qG/view?usp=drive_link)
 
 
 ## 🌐 Socials:
