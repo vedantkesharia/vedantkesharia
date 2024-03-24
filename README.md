@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi 👋, I'm Vedant Kesharia<br>A passionate Full Stack Web Developer 🧑‍💻 with knowledge in Machine Learning (ML)</b></h1>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 👨‍💻 🧑‍💻 All of my projects are available at [**My Portfolio**](https://vedantkeshariaportfolio.netlify.app/)
+- 👨‍💻 🧑‍💻 All of my projects are available at [**My Portfolio Website**](https://vedantkeshariaportfolio.netlify.app/)
 
 - 📫 How to reach me: [**keshariavedant@gmail.com**](mailto:keshariavedant@gmail.com)
 
