@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences [**Drive Link**](https://drive.google.com/file/d/1rtlL5VFNJa-0eKh27KFOr_91CQiAA4qG/view?usp=drive_link)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kesharia-556603235) 
 
