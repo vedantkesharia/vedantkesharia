@@ -3,7 +3,7 @@
 # 💫 About Me:
 <h1 align="center"><b>Hi 👋, I'm Vedant Kesharia</b></h1>
 <br>
-<h1>A passionate Full Stack Web Developer 🧑‍💻 with knowledge in Machine Learning (ML)</h1>
+<h1>I am a passionate Full Stack Web Developer 🧑‍💻 with knowledge in Machine Learning (ML)</h1>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 👨‍💻 🧑‍💻 All of my projects are available at [**My Portfolio Website**](https://vedantkeshariaportfolio.netlify.app/)
