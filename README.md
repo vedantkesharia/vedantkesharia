@@ -6,11 +6,11 @@
 <h1>A passionate Full Stack Web Developer 🧑‍💻 with knowledge in Machine Learning (ML)</h1>
 <img align="right" alt="Coding" width="375" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 👨‍💻 🧑‍💻 All of my projects are available at [**My Portfolio Website**](https://vedantkeshariaportfolio.netlify.app/)
+- 👨‍💻 🧑‍💻 All of my projects are available at [**My Portfolio Website**](https://vedantkeshariaportfolio.vercel.app/)
 
 - 📫 How to reach me: [**keshariavedant@gmail.com**](mailto:keshariavedant@gmail.com)
 
-- 📄 Know about my experiences [**Drive Link**](https://drive.google.com/file/d/1rtlL5VFNJa-0eKh27KFOr_91CQiAA4qG/view?usp=drive_link)
+- 📄 Know about my experiences [**Drive Link**](https://drive.google.com/file/d/19bceCdlZaAh3l5y6ir7KcwaKkutvaxD6/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kesharia-556603235) 
